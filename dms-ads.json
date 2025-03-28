@@ -10,7 +10,7 @@
             "ads_banner": "ADS-Logo_RGB.png",
             "skippable": 1,
             "track_url": "#",
-            "ads_type": "Banner_ads",
+            "ads_type": "Preroll_ads",
             "deep_link": "#",
             "package_name": "Package 6.0",
             "ads_index": 2,
