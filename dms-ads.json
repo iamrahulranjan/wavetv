@@ -6,7 +6,7 @@
             "ads_id": "ADS0002",
             "adspot_id": "GBTAPFKTB90",
             "ads_name": "Default WaveTV Ads",
-            "ads_video_url": "https://github.com/iamrahulranjan/wavetv/blob/main/videoplayback.mp4",
+            "ads_video_url": "https://raw.githubusercontent.com/iamrahulranjan/wavetv/main/videoplayback.mp4",
             "ads_banner": "ADS-Logo_RGB.png",
             "skippable": 1,
             "track_url": "#",
